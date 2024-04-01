@@ -5,11 +5,17 @@ body{
     font-size: 20px;
 }
 header{
-    background-color: black;
+    background-color: rgb(173, 173, 173);
     text-align: center;
     padding: 15px;
     border-radius: 15px;
 }
 footer{
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+}
+.gif{
     text-align: center;
 }
